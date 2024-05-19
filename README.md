@@ -22,7 +22,3 @@ Dieses Projekt zielt darauf ab, Lehrkräfte im deutschsprachigen Raum durch KI-g
 1. **Repository klonen:**
    ```bash
    git clone https://github.com/Flord96/ki-unterstuetzung-lehrkraefte.git
-cd ki-unterstuetzung-lehrkraefte
-npm install
-npm start
-npm run server
